@@ -1,5 +1,6 @@
 ### Olá, eu sou o Vitor Gabriel 👋
 
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubvitor&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no dia
 
@@ -10,7 +11,6 @@
 </div><br/>
 
 Apaixonado por tecnologia e aprendendo programação!
-
 
 
 
